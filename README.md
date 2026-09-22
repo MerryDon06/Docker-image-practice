@@ -17,3 +17,5 @@ A simple Node.js application containerized using Docker.
 ```bash
 npm install
 npm start
+
+CI workflow tested with a new commit.
